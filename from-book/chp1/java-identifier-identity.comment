@@ -1,0 +1,18 @@
+An identifier is a letter followed by zero or more letters and digits.
+
+it may include:
+the 26 english characters (upper + lower)
+the $ and _ characters,
+as well as alphabetic characters from other languages
+a java digit includes the digits 0 through 9
+
+EXAMPLES:
+total
+MAX_HEIGHT
+num1
+Keyboard
+System
+
+
+
+Java is case sensitive

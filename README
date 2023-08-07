@@ -1,0 +1,24 @@
+java files/code with examples from the
+8th edition Java Software Solutions: Foundations of Program Design
+By: Lewis Loftus
+and various other things
+
+
+These files are STRICTLY for my personal use only
+however, if you would like to make use of anything
+contained within, you may do so, provided you
+give credit to both the book (if appliciable)
+and me.
+
+
+
+
+Directory structure:
+
+./ - legal, directories, and other information
+
+./from-book/ - contains sub-directories, code files, and relevant information, book title is mentioned above
+
+./from-book/chp<NUM> - <NUM> represents a chapter number(s), self explainatory, contains code and relevant information from the specified chapter of the book
+
+./from-book/chp<NUM>/compiled - <NUM> represents a chapter number(s), self explainatory, contains compiled code
